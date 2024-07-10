@@ -42,7 +42,7 @@ def start(update: Update, context: CallbackContext):
     
 
 #     speak('hello sir welcome to the bot created by my boss')
-#     speak('my boss is gopikanth')
+#     speak('my boss is vinay')
 
 
 def youtube(update: Update, context: CallbackContext):
